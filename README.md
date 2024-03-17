@@ -1,6 +1,17 @@
-# TicTacToe Using Angular Framework
+# TIC-TAC-TOE-ANGULAR-FRAMEWORK
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
+
+- [X] **[Project Demo](https://youtu.be/zCKgLImSjeo)**
+
+
+## Authors
+  
+   - **[Amey Thakur](https://github.com/Amey-Thakur)**
+   
+   - **[Mega Satish](https://github.com/msatmod)**
+
+#
 
 ## Development server
 
@@ -30,6 +41,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 >**Command - ng serve**
 
+>**[Project Demo](https://youtu.be/zCKgLImSjeo)**
+
 ![image](https://user-images.githubusercontent.com/54937357/173431154-83b9b0f8-063e-449d-94a5-fe0b3bb19de8.png)
 
 ![image](https://user-images.githubusercontent.com/54937357/173431192-1d3fba6d-80d6-497b-bef9-4694aa97a3c7.png)
@@ -47,4 +60,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 <p align="center"> <b> 👉🏻 Created Tic Tac Toe Game Using Angular Framework 👈🏻 <b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/TIC-TAC-TOE-ANGULAR-FRAMEWORK', style='color: greenyellow;'> ✌🏻 Back To Repository ✌🏻</p>
+<p align="center"> <b> 👷 Project Authors: Amey Thakur and Mega Satish <b> </p>
+ 
+<p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
